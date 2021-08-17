@@ -28,7 +28,7 @@ public class Odd {
         int i=0;
         int cont=0;
         List list = new  ArrayList<>();
-        int[] arr=new int[];
+        int[] arr=new int[10];
 
         
         for (i=l;i<=r;i++)
